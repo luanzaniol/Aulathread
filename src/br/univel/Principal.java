@@ -15,7 +15,7 @@ public class Principal {
 				}
 			}).start();
 		System.out.println("thread principal livre.");
-		
+		//jkmjjkjkj
 		
 			new Thread(
 				new Runnable() {
